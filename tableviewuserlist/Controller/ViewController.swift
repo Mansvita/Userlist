@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  tableviewuserlist
-//
-//  Created by MANSVITA on 02/09/22.
-//
 
 import UIKit
 
